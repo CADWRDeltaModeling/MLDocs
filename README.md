@@ -50,6 +50,8 @@ Qi S, Bai Z, Ding Z, Jayasundara N, He M, Sandhu P, Seneviratne S, Kadir T. Enha
 
 RMA. Delta Emergency Response Tool (Delta-ERT): Machine Learning Technical Documentation, Prepared for California Department of Water Resources. P.6, September 2021. 
 
+He, M., Zhou, Y., Kim, H., Nader-Tehrani, P., and Sandhu, P. DSM2 Water Temperature Modeling Input Extension: 1922–2015. In: Methodology for Flow and Salinity Estimates in the Sacramento-San Joaquin Delta and Suisun Marsh: 43rd Annual Progress Report to the State Water Resources Control Board; California Department of Water Resources: Sacramento, CA, USA, 2022. 
+
 Kim HS, He M, Sandhu P. Suspended sediment concentration estimation in the Sacramento‐San Joaquin Delta of California using long short‐term memory networks. Hydrological Processes. 2022 Oct;36(10):e14694.
 
 Namadi P, He M, Sandhu P. Salinity-constituent conversion in South Sacramento-San Joaquin Delta of California via machine learning. Earth Science Informatics. 2022 Sep;15(3):1749-64.
@@ -58,7 +60,11 @@ Qi, S.; He, M.; Bai, Z.; Ding, Z.; Sandhu, P.; Zhou, Y.; Namadi, P.; Tom, B.; Ho
 
 Qi, S.; He, M.; Bai, Z.; Ding, Z.; Sandhu, P.; Chung, F.; Namadi, P.; Zhou, Y.; Hoang, R.; Tom, B.; et al. Novel Salinity Modeling Using Deep Learning for the Sacramento–San Joaquin Delta of California. Water 2022b, 14, 3628. https://doi.org/10.3390/w14223628 
 
+Tillotson MD, Hassrick J, Collins AL, Phillis C. Machine learning forecasts to reduce risk of entrainment loss of endangered salmonids at large-scale water diversions in the Sacramento–San Joaquin Delta, California. San Francisco Estuary and Watershed Science. 2022;20(2). 
+
 Namadi P, He M, Sandhu P. Modeling ion constituents in the Sacramento-San Joaquin Delta using multiple machine learning approaches. Journal of Hydroinformatics. 2023 Nov 1;25(6):2541-60.
+
+Qi, S.; He, M.; Hoang, R.; Zhou, Y.; Namadi, P.; Tom, B.; Sandhu, P.; Bai, Z.; Chung, F.; Ding, Z.; et al. Salinity Modeling Using Deep Learning with Data Augmentation and Transfer Learning. Water 2023, 15, 2482. https://doi.org/10.3390/w15132482
 
 Roh, D.M.; He, M.; Bai, Z.; Sandhu, P.; Chung, F.; Ding, Z.; Qi, S.; Zhou, Y.; Hoang, R.; Namadi, P.; et al. Physics-Informed Neural Networks-Based Salinity Modeling in the Sacramento–San Joaquin Delta of California. Water 2023, 15, 2320. https://doi.org/10.3390/w15132320
 
@@ -73,6 +79,8 @@ Saha, G.K., Namadi, P.; He, M.; Sandhu, P. Machine Learning-Based Harmful Algal 
 Ahmadi A, Daccache A, He M, Namadi P, Bafti AG, Sandhu P, Bai Z, Snyder RL, Kadir T. Enhancing the accuracy and generalizability of reference evapotranspiration forecasting in California using deep global learning. Journal of Hydrology: Regional Studies. 2025 Jun 1;59:102339. 
 
 Ateljevich, E. and DeGeorge, J. Analysis of Delta Salinity during Extended Drought – Pilot Project. Final Project Report for Delta Stewardship Council, Sacramento, CA, USA. 2025. 
+
+He, M.; Sandhu, P.; Namadi, P.; Reyes, E.; Guivetchi, K.; Chung, F. Protocols for Water and Environmental Modeling Using Machine Learning in California. Hydrology 2025, 12, 59. https://doi.org/10.3390/hydrology12030059
 
 Namadi, P.; He, M.; Sandhu, P. Advancing Ion Constituent Simulations in California’s Sacramento–San Joaquin Delta Using Machine Learning Tools. Water 2025, 17, 1511. https://doi.org/10.3390/w17101511
 
