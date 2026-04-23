@@ -1,5 +1,4 @@
-# MLDocs
-Bibliography
+# Bibliography
 
 Sandhu, P. and Finch, R. Artificial Neural Networks and Their Applications. In: Methodology for Flow and Salinity Estimates in the Sacramento-San Joaquin Delta and Suisun Marsh: Sixteenth Annual Progress Report to the State Water Resources Control Board; California Department of Water Resources: Sacramento, CA, USA, 1995. 
 
